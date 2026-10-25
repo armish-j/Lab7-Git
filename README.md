@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Storage Estimator - Main Version
+=======
+# Storage Estimator - Conflict Branch
+>>>>>>> conflict-practice
 
 ## Purpose
 This program is made to estimate storage.
