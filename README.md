@@ -1,5 +1,5 @@
 
-# Storage Estimator - Conflict Practice
+# Storage Estimator - Main Version
 
 ## Purpose
 This program is made to estimate storage.
